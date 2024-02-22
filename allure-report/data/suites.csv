@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Feb 15 11:38:21 IST 2024","Thu Feb 15 11:39:03 IST 2024","41522","chromium","loginpage.spec.js","","","","Login into the application",""
