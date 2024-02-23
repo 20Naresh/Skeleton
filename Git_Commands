@@ -1,0 +1,12 @@
+ git init
+ git status
+ git add filename or git add . 
+ git commit -m "first commit"
+
+ git config --global credential.https://github.com.token "add your token"
+
+ git log
+ git branch -M main
+ git branch
+ git remote add origin "github repo url"    --> Connects with Repo
+ git push -u origin main                    --> Push entire to remote
